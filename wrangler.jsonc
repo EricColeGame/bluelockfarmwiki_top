@@ -1,0 +1,14 @@
+{
+  "name": "bluelockfarmwiki-top",
+  "compatibility_date": "2024-09-01",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./out"
+  },
+  "routes": [
+    {
+      "pattern": "bluelockfarmwiki.top",
+      "custom_domain": true
+    }
+  ]
+}
