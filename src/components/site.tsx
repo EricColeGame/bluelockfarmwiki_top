@@ -82,7 +82,8 @@ export function TrailerCard({ videoId }: { videoId: string }) {
           onError={(e) => {
             const img = e.target as HTMLImageElement;
             if (img.src.includes("maxresdefault")) img.src = `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
-            else if (img.src.includes("hqdefault")) img.src = "/images/hero.webp";
+            else if (img.src.includes("hqdefault")) img.src = "/images/hero-trailer-thumbnail.jpg";
+            else img.src = "/images/hero.webp";
           }}
         />
       </div>
