@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the Blue Lock Farm loop from your very first locker to your first full crate, with the exact order of operations new managers should follow."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Speed up your progress with the upgrade order and crate-value priorities that make your Blue Lock Farm income snowball instead of stalling."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Money Farming",
+          "description": "Turn lockers, players, and crates into steady Cash with the money-making habits that scale a Blue Lock Farm into the millions."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Blue Lock Farm."
+          "title": "All Codes & Rewards",
+          "description": "Redeem every working Blue Lock Farm code for Trait Tokens, Grade Tokens, Potions, and Jackpot Tokens before they expire."
         }
       ]
     },
@@ -62,78 +62,78 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Blue Lock Farm Codes",
+        "Beginner Guide",
+        "Characters Tier List",
+        "Money Farming"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first locker to a self-running ball farm.",
+          "href": "/guide/blue-lock-farm-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working Blue Lock Farm codes with rewards redeem them before they expire.",
+          "href": "/codes/blue-lock-farm-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Characters Tier List",
+          "description": "Every character ranked by grade multiplier, hatch rarity, and farming output.",
+          "href": "/characters/blue-lock-farm-rankings"
+        },
+        {
+          "badge": "Popular",
+          "title": "Locker & Rolls Guide",
+          "description": "How locker hatches, grade rolls, and trait tokens decide your income.",
+          "href": "/mechanics/blue-lock-farm-rolls"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Money Farming Guide",
+          "description": "The upgrade order that turns crates into a Cash printing machine.",
+          "href": "/progression/blue-lock-farm-money"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Best Units",
+          "description": "Rarity, grade, traits, and variants compared for your best lineup.",
+          "href": "/progression/blue-lock-farm-best-units"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Traits Guide",
+          "description": "How to roll, reroll, and stack the best bonuses on your keepers.",
+          "href": "/mechanics/blue-lock-farm-traits"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Rebirth Guide",
+          "description": "Reset smarter, bank the right resources, and rebuild faster.",
+          "href": "/progression/blue-lock-farm-rebirth"
         },
         {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Updated",
+          "title": "Update Tracker",
+          "description": "New codes, token rewards, and balance changes from every patch.",
+          "href": "/guide/blue-lock-farm-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Blue Lock Farm?",
       "paragraphs": [
-        "Blue Lock Farm is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Blue Lock Farm is a Roblox tycoon-style idle game from developer Finding Illusions that turns the locker-room energy of the Blue Lock anime into a soccer ball money machine. You buy lockers, hatch anime-inspired players, and let those players farm balls across your base, then sell full crates for Cash and pour the earnings back into better lockers and upgrades.",
+        "The loop is simple but the optimization runs deep: crate value, luck, opening speed, movement, and base size upgrades all compound, while Grade Tokens, Trait Tokens, Variant Tokens, and Potions push your best players toward the top UR grade. Our wiki covers every system with step-by-step guides, upgrade priorities, and code lists you can act on right away."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Finding Illusions"
         },
         {
           "label": "Platform",
@@ -141,158 +141,240 @@
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Soccer Tycoon"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Active Codes",
+          "value": "5"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Upgrade Tracks",
+          "value": "5"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Top Grade",
+          "value": "UR"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Core Resource",
+          "value": "Cash"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Blue Lock Farm Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Master your soccer ball farm on Roblox with essential progression guides, active codes, complete character and locker breakdowns, and the upgrade order that maximizes your Cash.",
       "modules": [
         {
           "order": 1,
-          "name": "Blue Lock Farm Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "Blue Lock Farm Codes",
+          "description": "Redeem every working Blue Lock Farm code for free Trait Tokens, Grade Tokens, Potions, and Jackpot Tokens, plus the exact Shop menu steps to claim them.",
           "href": "/codes/blue-lock-farm-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "TRAITS",
+              "detail": "25 Trait Tokens for rerolling your strongest player"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "ADMINABUSE",
+              "detail": "20 Trait Tokens, 20 Grade Tokens, and 1 Variant Token"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "COMMUNITY",
+              "detail": "3x Cash, Grade Speed, and Luck Potions"
+            },
+            {
+              "label": "WEATHER",
+              "detail": "5 Grade Tokens and 1 Luck Potion"
+            },
+            {
+              "label": "POLISHER",
+              "detail": "1 Jackpot Token for a bonus reward roll"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
+          "name": "Blue Lock Farm Beginner Guide",
+          "description": "Follow the Blue Lock Farm loop step by step, from buying your first locker and hatching a player to farming balls and selling full crates for the Cash that funds your next upgrade.",
           "href": "/guide/blue-lock-farm-beginner-guide",
-          "displayType": "feature-cards",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "1",
+              "detail": "Buy your first locker with the starting Cash on your base"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "2",
+              "detail": "Hatch a player and let them start farming soccer balls"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "3",
+              "detail": "Fill a crate with the balls your players collect"
+            },
+            {
+              "label": "4",
+              "detail": "Sell full crates for Cash instead of hoarding them"
+            },
+            {
+              "label": "5",
+              "detail": "Reinvest in crate value first, then luck and opening speed"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/blue-lock-farm-tier-list",
+          "name": "Blue Lock Farm Characters Tier List",
+          "description": "See how Blue Lock Farm characters rank by grade multiplier, hatch rarity, and farming output so you know which players are worth grading and keeping for the long run.",
+          "href": "/characters/blue-lock-farm-rankings",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "UR-grade players with the biggest Cash multiplier in the game"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "High-grade hatches that anchor your active farming lineup"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Mid-grade players worth keeping until a better hatch appears"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Low-grade commons used as early filler, then replaced"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/blue-lock-farm-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Blue Lock Farm Locker Guide",
+          "description": "Understand how Blue Lock Farm lockers work, how hatch odds scale with locker tier, and how luck upgrades and the Ranking stand turn raw pulls into reliable income.",
+          "href": "/mechanics/blue-lock-farm-rolls",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Lockers",
+              "detail": "Buy lockers to hatch the players that farm your base"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Hatches",
+              "detail": "Higher locker tiers raise the odds of a top-rarity pull"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Luck",
+              "detail": "Luck upgrades raise the quality of every hatch you roll"
+            },
+            {
+              "label": "Grading",
+              "detail": "Visit the Ranking stand in the Plaza to roll a higher grade"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/blue-lock-farm-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Blue Lock Farm Money Farming Guide",
+          "description": "Turn Blue Lock Farm into a Cash machine with the upgrade order, crate-value stacking, and offline habits that keep your farm earning around the clock.",
+          "href": "/progression/blue-lock-farm-money",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Fill every locker slot so no income sits idle"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Sell full crates the moment they are ready"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Push crate value until every sale feels meaningful"
+            },
+            {
+              "label": "4",
+              "detail": "Invest in luck so your roster quality keeps pace"
+            },
+            {
+              "label": "5",
+              "detail": "Save Grade Tokens for the players you plan to keep"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/blue-lock-farm-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Blue Lock Farm Update Guide",
+          "description": "Track the latest Blue Lock Farm update, including new redeem codes, token reward types, and balance changes that shift which upgrades are worth buying first.",
+          "href": "/guide/blue-lock-farm-update",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Codes",
+              "detail": "New redeem codes arrive with milestones and events"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Tokens",
+              "detail": "Trait, Grade, Variant, and Jackpot Tokens join reward pools"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Tuning",
+              "detail": "Upgrade and locker balance shifts with each patch"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time milestones hand out free boosters"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Blue Lock Farm Team Building Guide",
+          "description": "Build a stronger Blue Lock Farm lineup by weighing rarity, grade, traits, and variants, then spending Grade Tokens only on the players you plan to keep.",
+          "href": "/progression/blue-lock-farm-best-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rarity",
+              "detail": "Higher-rarity hatches farm more balls per minute"
+            },
+            {
+              "label": "Grade",
+              "detail": "Grade tiers multiply the Cash each player generates"
+            },
+            {
+              "label": "Traits",
+              "detail": "Trait rolls stack bonus stats on your keepers"
+            },
+            {
+              "label": "Variants",
+              "detail": "Variant units are rarer versions with larger multipliers"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Blue Lock Farm Community Guide",
+          "description": "Find the Blue Lock Farm community hubs, including the developer's Roblox group, Discord announcements, and in-game milestones that hand out free codes and tokens.",
+          "href": "/guide/blue-lock-farm-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "The fastest source of new codes and update notes"
+            },
+            {
+              "label": "Group",
+              "detail": "The developer's Roblox group posts event announcements"
+            },
+            {
+              "label": "Milestones",
+              "detail": "In-game milestones pay out a steady trickle of tokens"
+            },
+            {
+              "label": "Trackers",
+              "detail": "Community code trackers list rewards between updates"
             }
           ]
         }
@@ -304,23 +386,23 @@
       "items": [
         {
           "question": "What is Blue Lock Farm?",
-          "answer": "Blue Lock Farm is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Blue Lock Farm is a Roblox tycoon-style idle game from developer Finding Illusions. You buy lockers, hatch anime-inspired soccer players, let them farm balls into crates, and sell full crates for Cash that funds better lockers and upgrades."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What is the fastest way to make Cash in Blue Lock Farm?",
+          "answer": "Sell full crates and reinvest in crate value first, then luck. Blue Lock Farm rewards players who keep the loop moving, so fill every locker slot before you log off and upgrade crate value before buying another expensive locker."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How do Blue Lock Farm codes work?",
+          "answer": "Blue Lock Farm codes are free one-time rewards you enter in the Shop menu. Active codes such as TRAITS, ADMINABUSE, POLISHER, COMMUNITY, and WEATHER hand out Trait Tokens, Grade Tokens, Potions, and Jackpot Tokens."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the best grade in Blue Lock Farm?",
+          "answer": "UR sits at the top of the Blue Lock Farm ranking ladder and carries the biggest Cash multiplier in the game. Roll grades at the Ranking stand in the Plaza, and save Grade Tokens for the players you plan to keep."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Should I rebirth in Blue Lock Farm?",
+          "answer": "Rebirth resets your lockers, players, and unspent Cash in exchange for permanent bonuses. Spend your Cash, sell full crates, and bank your Grade Tokens before you confirm a Blue Lock Farm rebirth."
         }
       ]
     },
