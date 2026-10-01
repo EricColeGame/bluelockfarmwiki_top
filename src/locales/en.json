@@ -6,7 +6,17 @@
     "description": "Your ultimate guide to Blue Lock Farm on Roblox! Explore active working codes, unlockable Blue Lock characters, locker upgrades, money farming strategies, and progression guides.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "characters": "Characters",
+    "codes": "Codes",
+    "progression": "Progression",
+    "mechanics": "Mechanics",
+    "controls": "Controls",
+    "items": "Items",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Blue Lock Farm Wiki - Codes, Guides & Characters",
@@ -413,7 +423,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Blue Lock Farm Guides",
+    "overviewDescription": "Every Blue Lock Farm guide in one place, from your first locker to a fully upgraded money farm. Start with the beginner walkthrough, then branch into leveling, progression, tips, and update breakdowns."
+  },
+  "characters": {
+    "overviewTitle": "Blue Lock Farm Characters",
+    "overviewDescription": "Learn how Blue Lock Farm characters hatch from lockers, how grades and traits change their output, and which strikers like Isagi, Rin, and Bachira are worth building around."
+  },
+  "codes": {
+    "overviewTitle": "Blue Lock Farm Codes",
+    "overviewDescription": "Redeem the latest working Blue Lock Farm codes for Trait Tokens, Grade Tokens, Potions, and Jackpot Tokens, with the exact Shop menu steps and redemption walkthrough."
+  },
+  "progression": {
+    "overviewTitle": "Blue Lock Farm Progression",
+    "overviewDescription": "Plan your long-term Blue Lock Farm progression with money farming routes, rebirth resets, best units, and rating climbs that keep your Cash counter moving upward."
+  },
+  "mechanics": {
+    "overviewTitle": "Blue Lock Farm Mechanics",
+    "overviewDescription": "Understand the Blue Lock Farm systems behind the loop, including locker rolls, traits, abilities, auras, and how each mechanic multiplies your farm output."
+  },
+  "controls": {
+    "overviewTitle": "Blue Lock Farm Controls",
+    "overviewDescription": "Get comfortable with Blue Lock Farm controls on Roblox, including movement, soccer actions, base interaction, and the full gameplay flow for new managers."
+  },
+  "items": {
+    "overviewTitle": "Blue Lock Farm Items",
+    "overviewDescription": "Track every Blue Lock Farm item that matters, from Cash and Gems to styles, spins, Lucky Spins, classes, and rewards, and see how each one feeds your farm."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
