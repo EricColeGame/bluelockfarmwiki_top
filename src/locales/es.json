@@ -1,1 +1,490 @@
-{}
+{
+  "site": {
+    "name": "Blue Lock Farm Wiki",
+    "shortName": "Blue Lock Farm",
+    "tagline": "Códigos, Personajes, Casilleros y Guías de Farmeo",
+    "description": "¡Tu guía definitiva de Blue Lock Farm en Roblox! Explora códigos activos, personajes desbloqueables, mejoras de casillero, estrategias para farmear dinero y guías de progresión.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "characters": "Personajes",
+    "codes": "Códigos",
+    "progression": "Progresión",
+    "mechanics": "Mecánicas",
+    "controls": "Controles",
+    "items": "Objetos",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Blue Lock Farm Wiki - Códigos, Guías y Personajes",
+      "description": "Blue Lock Farm Wiki ofrece códigos actualizados, guías de personajes, consejos de farmeo, estrategias de progresión e información de juego para ayudar a los jugadores a mejorar su experiencia de granja de fútbol."
+    },
+    "hero": {
+      "eyebrow": "Simulador de Granja de Fútbol Anime",
+      "title": "Blue Lock Farm Wiki",
+      "description": "Blue Lock Farm Wiki ofrece guías para jugadores, estrategias de farmeo, información de personajes, códigos, consejos de progresión y recursos de juego para dominar esta experiencia de granja de fútbol inspirada en el anime.",
+      "stats": [
+        "Todos los Códigos Activos",
+        "Tier List de Personajes",
+        "Guías de Casilleros",
+        "Consejos para Farmear Dinero"
+      ],
+      "primaryCta": "Juega en Roblox",
+      "secondaryCta": "Guía para Principiantes",
+      "tertiaryCta": "Códigos Activos",
+      "videoLabel": "Muestra de Jugabilidad"
+    },
+    "updates": {
+      "title": "Últimas Actualizaciones",
+      "browse": "Ver Todas las Guías",
+      "viewAll": "Ver Todo"
+    },
+    "start": {
+      "eyebrow": "Empieza Aquí",
+      "title": "Tu Viaje en Blue Lock Farm",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para Principiantes",
+          "description": "Aprende el bucle de Blue Lock Farm desde tu primer casillero hasta tu primera caja llena, con el orden exacto de acciones que deben seguir los nuevos gerentes."
+        },
+        {
+          "number": "2",
+          "title": "Subida de Nivel Más Rápida",
+          "description": "Acelera tu progreso con el orden de mejoras y las prioridades de valor de caja que hacen que tus ingresos en Blue Lock Farm crezcan en bola de nieve en vez de estancarse."
+        },
+        {
+          "number": "3",
+          "title": "Mejor Farmeo de Dinero",
+          "description": "Convierte casilleros, jugadores y cajas en Cash constante con los hábitos de lucro que escalan un Blue Lock Farm hasta los millones."
+        },
+        {
+          "number": "4",
+          "title": "Todos los Códigos y Recompensas",
+          "description": "Canjea todos los códigos activos de Blue Lock Farm por Fichas de Rasgo, Fichas de Grado, Pociones y Fichas de Jackpot antes de que expiren."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas Populares",
+      "title": "Tendencia Ahora",
+      "quickLinks": [
+        "Códigos de Blue Lock Farm",
+        "Guía para Principiantes",
+        "Tier List de Personajes",
+        "Farmeo de Dinero"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para Principiantes",
+          "description": "Todo lo que necesitas desde tu primer casillero hasta una granja de balones automática.",
+          "href": "/guide/blue-lock-farm-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos Activos",
+          "description": "Todos los códigos activos de Blue Lock Farm con recompensas; canjéalos antes de que expiren.",
+          "href": "/codes/blue-lock-farm-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tier List de Personajes",
+          "description": "Cada personaje clasificado por multiplicador de grado, rareza de eclosión y producción de farmeo.",
+          "href": "/characters/blue-lock-farm-rankings"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de Casilleros y Tiradas",
+          "description": "Cómo las eclosiones de casillero, las tiradas de grado y las fichas de rasgo deciden tus ingresos.",
+          "href": "/mechanics/blue-lock-farm-rolls"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de Farmeo de Dinero",
+          "description": "El orden de mejoras que convierte las cajas en una máquina de imprimir Cash.",
+          "href": "/progression/blue-lock-farm-money"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores Unidades",
+          "description": "Rareza, grado, rasgos y variantes comparados para tu mejor alineación.",
+          "href": "/progression/blue-lock-farm-best-units"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de Rasgos",
+          "description": "Cómo tirar, retirar y acumular los mejores bonus en tus porteros.",
+          "href": "/mechanics/blue-lock-farm-traits"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de Rebirth",
+          "description": "Reinicia con inteligencia, guarda los recursos correctos y reconstruye más rápido.",
+          "href": "/progression/blue-lock-farm-rebirth"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Rastreador de Actualizaciones",
+          "description": "Nuevos códigos, recompensas de fichas y cambios de balance de cada parche.",
+          "href": "/guide/blue-lock-farm-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Blue Lock Farm?",
+      "paragraphs": [
+        "Blue Lock Farm es un juego idle estilo tycoon de Roblox del desarrollador Finding Illusions que convierte la energía del vestuario del anime Blue Lock en una máquina de dinero de balones de fútbol. Compras casilleros, eclosionas jugadores inspirados en el anime y dejas que farmeen balones por tu base, luego vendes cajas llenas por Cash y reinviertes las ganancias en mejores casilleros y mejoras.",
+        "El bucle es simple, pero la optimización es profunda: el valor de la caja, la suerte, la velocidad de apertura, el movimiento y las mejoras de tamaño de base se acumulan, mientras que las Fichas de Grado, Fichas de Rasgo, Fichas de Variante y Pociones llevan a tus mejores jugadores hacia el grado máximo UR. Nuestra wiki cubre cada sistema con guías paso a paso, prioridades de mejora y listas de códigos listas para usar."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Finding Illusions"
+        },
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Tycoon de Fútbol"
+        },
+        {
+          "label": "Códigos Activos",
+          "value": "5"
+        },
+        {
+          "label": "Rutas de Mejora",
+          "value": "5"
+        },
+        {
+          "label": "Grado Máximo",
+          "value": "UR"
+        },
+        {
+          "label": "Recurso Principal",
+          "value": "Cash"
+        }
+      ],
+      "cta": "Explorar Todas las Guías"
+    },
+    "explore": {
+      "title": "Explora Blue Lock Farm Wiki",
+      "description": "Domina tu granja de balones de fútbol en Roblox con guías esenciales de progresión, códigos activos, análisis completos de personajes y casilleros, y el orden de mejoras que maximiza tu Cash.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de Blue Lock Farm",
+          "description": "Canjea todos los códigos activos de Blue Lock Farm por Fichas de Rasgo, Fichas de Grado, Pociones y Fichas de Jackpot gratis, más los pasos exactos en el menú Tienda para reclamarlos.",
+          "href": "/codes/blue-lock-farm-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "TRAITS",
+              "detail": "25 Fichas de Rasgo para retirar a tu jugador más fuerte"
+            },
+            {
+              "label": "ADMINABUSE",
+              "detail": "20 Fichas de Rasgo, 20 Fichas de Grado y 1 Ficha de Variante"
+            },
+            {
+              "label": "COMMUNITY",
+              "detail": "Pociones de Cash, Velocidad de Grado y Suerte x3"
+            },
+            {
+              "label": "WEATHER",
+              "detail": "5 Fichas de Grado y 1 Poción de Suerte"
+            },
+            {
+              "label": "POLISHER",
+              "detail": "1 Ficha de Jackpot para una tirada de recompensa extra"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía para Principiantes de Blue Lock Farm",
+          "description": "Sigue el bucle de Blue Lock Farm paso a paso, desde comprar tu primer casillero y eclosionar un jugador hasta farmear balones y vender cajas llenas por el Cash que financia tu siguiente mejora.",
+          "href": "/guide/blue-lock-farm-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Compra tu primer casillero con el Cash inicial de tu base"
+            },
+            {
+              "label": "2",
+              "detail": "Eclosiona un jugador y deja que empiece a farmear balones de fútbol"
+            },
+            {
+              "label": "3",
+              "detail": "Llena una caja con los balones que recogen tus jugadores"
+            },
+            {
+              "label": "4",
+              "detail": "Vende las cajas llenas por Cash en vez de acumularlas"
+            },
+            {
+              "label": "5",
+              "detail": "Reinvierte primero en valor de caja, luego en suerte y velocidad de apertura"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Tier List de Personajes de Blue Lock Farm",
+          "description": "Mira cómo se clasifican los personajes de Blue Lock Farm por multiplicador de grado, rareza de eclosión y producción de farmeo, para saber qué jugadores vale la pena subir de grado y conservar a largo plazo.",
+          "href": "/characters/blue-lock-farm-rankings",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Jugadores de grado UR con el mayor multiplicador de Cash del juego"
+            },
+            {
+              "label": "A",
+              "detail": "Eclosiones de grado alto que sostienen tu alineación activa de farmeo"
+            },
+            {
+              "label": "B",
+              "detail": "Jugadores de grado medio que vale conservar hasta que aparezca una mejor eclosión"
+            },
+            {
+              "label": "C",
+              "detail": "Comunes de grado bajo usados como relleno inicial y luego reemplazados"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de Casilleros de Blue Lock Farm",
+          "description": "Entiende cómo funcionan los casilleros de Blue Lock Farm, cómo escalan las probabilidades de eclosión con el nivel del casillero, y cómo las mejoras de suerte y el puesto de Ranking convierten tiradas brutas en ingresos fiables.",
+          "href": "/mechanics/blue-lock-farm-rolls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Casilleros",
+              "detail": "Compra casilleros para eclosionar a los jugadores que farmean tu base"
+            },
+            {
+              "label": "Eclosiones",
+              "detail": "Los niveles de casillero más altos aumentan la probabilidad de una tirada de rareza máxima"
+            },
+            {
+              "label": "Suerte",
+              "detail": "Las mejoras de suerte elevan la calidad de cada eclosión que tiras"
+            },
+            {
+              "label": "Calificación",
+              "detail": "Visita el puesto de Ranking en la Plaza para tirar un grado más alto"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Guía de Farmeo de Dinero de Blue Lock Farm",
+          "description": "Convierte Blue Lock Farm en una máquina de Cash con el orden de mejoras, la acumulación de valor de caja y los hábitos offline que mantienen tu granja generando todo el tiempo.",
+          "href": "/progression/blue-lock-farm-money",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Llena cada hueco de casillero para que ningún ingreso quede parado"
+            },
+            {
+              "label": "2",
+              "detail": "Vende las cajas llenas en el momento en que estén listas"
+            },
+            {
+              "label": "3",
+              "detail": "Sube el valor de la caja hasta que cada venta valga la pena"
+            },
+            {
+              "label": "4",
+              "detail": "Invierte en suerte para que la calidad de tu plantilla no se quede atrás"
+            },
+            {
+              "label": "5",
+              "detail": "Guarda las Fichas de Grado para los jugadores que planeas conservar"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de Actualizaciones de Blue Lock Farm",
+          "description": "Sigue la última actualización de Blue Lock Farm, incluidos nuevos códigos canjeables, tipos de recompensa de fichas y cambios de balance que alteran qué mejoras conviene comprar primero.",
+          "href": "/guide/blue-lock-farm-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Códigos",
+              "detail": "Nuevos códigos canjeables llegan con hitos y eventos"
+            },
+            {
+              "label": "Fichas",
+              "detail": "Las Fichas de Rasgo, Grado, Variante y Jackpot se suman a las recompensas"
+            },
+            {
+              "label": "Ajustes",
+              "detail": "El balance de mejoras y casilleros cambia con cada parche"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Los hitos por tiempo limitado reparten potenciadores gratis"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Guía de Creación de Equipo de Blue Lock Farm",
+          "description": "Arma una alineación más fuerte en Blue Lock Farm sopesando rareza, grado, rasgos y variantes, y gasta Fichas de Grado solo en los jugadores que planeas conservar.",
+          "href": "/progression/blue-lock-farm-best-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rareza",
+              "detail": "Las eclosiones de mayor rareza farmean más balones por minuto"
+            },
+            {
+              "label": "Grado",
+              "detail": "Los niveles de grado multiplican el Cash que genera cada jugador"
+            },
+            {
+              "label": "Rasgos",
+              "detail": "Las tiradas de rasgo acumulan estadísticas extra en tus porteros"
+            },
+            {
+              "label": "Variantes",
+              "detail": "Las unidades variante son versiones más raras con multiplicadores mayores"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía de la Comunidad de Blue Lock Farm",
+          "description": "Encuentra los centros de la comunidad de Blue Lock Farm, incluidos el grupo de Roblox del desarrollador, los anuncios de Discord y los hitos del juego que reparten códigos y fichas gratis.",
+          "href": "/guide/blue-lock-farm-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "La fuente más rápida de nuevos códigos y notas de actualización"
+            },
+            {
+              "label": "Grupo",
+              "detail": "El grupo de Roblox del desarrollador publica anuncios de eventos"
+            },
+            {
+              "label": "Hitos",
+              "detail": "Los hitos del juego pagan un flujo constante de fichas"
+            },
+            {
+              "label": "Rastreadores",
+              "detail": "Los rastreadores de códigos de la comunidad listan recompensas entre actualizaciones"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Blue Lock Farm.",
+      "items": [
+        {
+          "question": "¿Qué es Blue Lock Farm?",
+          "answer": "Blue Lock Farm es un juego idle estilo tycoon de Roblox del desarrollador Finding Illusions. Compras casilleros, eclosionas jugadores de fútbol inspirados en el anime, los dejas farmear balones en cajas y vendes las cajas llenas por Cash que financia mejores casilleros y mejoras."
+        },
+        {
+          "question": "¿Cuál es la forma más rápida de ganar Cash en Blue Lock Farm?",
+          "answer": "Vende cajas llenas y reinvierte primero en el valor de la caja, luego en suerte. Blue Lock Farm premia a los jugadores que mantienen el bucle en marcha, así que llena cada hueco de casillero antes de salir y sube el valor de la caja antes de comprar otro casillero caro."
+        },
+        {
+          "question": "¿Cómo funcionan los códigos de Blue Lock Farm?",
+          "answer": "Los códigos de Blue Lock Farm son recompensas gratuitas de un solo uso que introduces en el menú Tienda. Códigos activos como TRAITS, ADMINABUSE, POLISHER, COMMUNITY y WEATHER reparten Fichas de Rasgo, Fichas de Grado, Pociones y Fichas de Jackpot."
+        },
+        {
+          "question": "¿Cuál es el mejor grado en Blue Lock Farm?",
+          "answer": "UR está en lo más alto de la escala de ranking de Blue Lock Farm y lleva el mayor multiplicador de Cash del juego. Tira grados en el puesto de Ranking de la Plaza y guarda Fichas de Grado para los jugadores que planeas conservar."
+        },
+        {
+          "question": "¿Debería hacer rebirth en Blue Lock Farm?",
+          "answer": "El rebirth reinicia tus casilleros, jugadores y Cash no gastado a cambio de bonus permanentes. Gasta tu Cash, vende cajas llenas y guarda tus Fichas de Grado antes de confirmar un rebirth en Blue Lock Farm."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para Dominar Blue Lock Farm?",
+      "description": "Desde la apertura de tu primer casillero hasta armar un equipo Blue Lock imparable, nuestra wiki de la comunidad te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la Guía para Principiantes",
+      "secondary": "Juega en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Blue Lock Farm",
+    "overviewDescription": "Todas las guías de Blue Lock Farm en un solo lugar, desde tu primer casillero hasta una granja de dinero totalmente mejorada. Empieza con el tutorial para principiantes y luego pasa a subida de nivel, progresión, consejos y análisis de actualizaciones."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Blue Lock Farm",
+    "overviewDescription": "Aprende cómo eclosionan los personajes de Blue Lock Farm de los casilleros, cómo los grados y rasgos cambian su producción, y qué delanteros como Isagi, Rin y Bachira vale la pena desarrollar."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de Blue Lock Farm",
+    "overviewDescription": "Canjea los últimos códigos activos de Blue Lock Farm por Fichas de Rasgo, Fichas de Grado, Pociones y Fichas de Jackpot, con los pasos exactos en el menú Tienda y el tutorial de canje."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en Blue Lock Farm",
+    "overviewDescription": "Planifica tu progresión a largo plazo en Blue Lock Farm con rutas de farmeo de dinero, reinicios de rebirth, mejores unidades y subidas de rating que mantienen tu contador de Cash en ascenso."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Blue Lock Farm",
+    "overviewDescription": "Entiende los sistemas detrás del bucle de Blue Lock Farm, incluidos tiradas de casillero, rasgos, habilidades, auras y cómo cada mecánica multiplica la producción de tu granja."
+  },
+  "controls": {
+    "overviewTitle": "Controles de Blue Lock Farm",
+    "overviewDescription": "Familiarízate con los controles de Blue Lock Farm en Roblox, incluidos movimiento, acciones de fútbol, interacción con la base y todo el flujo de juego para nuevos gerentes."
+  },
+  "items": {
+    "overviewTitle": "Objetos de Blue Lock Farm",
+    "overviewDescription": "Sigue todos los objetos importantes de Blue Lock Farm, desde Cash y Gemas hasta estilos, giros, Giros de Suerte, clases y recompensas, y mira cómo cada uno alimenta tu granja."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la Wiki",
+    "activeCodes": "Códigos Activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de Contenidos",
+    "nextSteps": "Siguientes Pasos",
+    "needHelp": "¿Necesitas Ayuda?",
+    "relatedReading": "Lectura Relacionada",
+    "relatedGuides": "Guías Relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Blue Lock Farm Wiki",
+    "about": "Blue Lock Farm Wiki es un centro de guías independiente hecho por fans que cubre códigos, personajes, casilleros, rutas de farmeo y conocimiento esencial del juego tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces Rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Blue Lock Farm Wiki. Sin afiliación con los desarrolladores del juego ni con Roblox.",
+    "description": "Simulador de granja de fútbol anime en Roblox. Colecciona personajes, abre casilleros y farmea dinero rápido.",
+    "playGame": "Juega Blue Lock Farm en Roblox",
+    "officialDiscord": "Discord Oficial",
+    "officialYoutube": "YouTube Oficial",
+    "vvBuilder": "Tier List de Blue Lock Farm",
+    "beginnerGuide": "Guía para Principiantes",
+    "raceGuides": "Guías de Personajes",
+    "bossGuides": "Guías de Casilleros",
+    "buildGuide": "Guía de Creación de Equipo",
+    "privacyPolicy": "Política de Privacidad",
+    "termsOfService": "Términos de Servicio"
+  }
+}

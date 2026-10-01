@@ -1,1 +1,490 @@
-{}
+{
+  "site": {
+    "name": "Blue Lock Farm Wiki",
+    "shortName": "Blue Lock Farm",
+    "tagline": "コード、キャラクター、ロッカー＆農場ガイド",
+    "description": "RobloxのBlue Lock Farm完全ガイド！有効なコード、解放できるキャラクター、ロッカー強化、稼ぎ方、育成ガイドを徹底解説します。",
+    "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのためのサイトです。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "characters": "キャラクター",
+    "codes": "コード",
+    "progression": "育成",
+    "mechanics": "ゲームシステム",
+    "controls": "操作",
+    "items": "アイテム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え"
+  },
+  "home": {
+    "meta": {
+      "title": "Blue Lock Farm Wiki - コード・ガイド・キャラクター",
+      "description": "Blue Lock Farm Wikiでは、最新コード、キャラクターガイド、稼ぎ方のコツ、育成戦略、ゲーム情報を掲載し、サッカー農場体験の向上をサポートします。"
+    },
+    "hero": {
+      "eyebrow": "アニメ系サッカー農場シミュレーター",
+      "title": "Blue Lock Farm Wiki",
+      "description": "Blue Lock Farm Wikiでは、プレイヤーガイド、稼ぎ方、キャラクター情報、コード、育成のコツ、ゲーム攻略リソースを提供し、アニメ風サッカー農場ゲームのマスターを支援します。",
+      "stats": [
+        "有効コード一覧",
+        "キャラクターTierリスト",
+        "ロッカーガイド",
+        "稼ぎ方のコツ"
+      ],
+      "primaryCta": "Robloxでプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "有効コード",
+      "videoLabel": "ゲームプレイ紹介"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて見る"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Blue Lock Farmの歩み",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "最初のロッカーから最初の満杯クレートまで、Blue Lock Farmのループを、新米マネージャーが守るべき手順どおりに解説します。"
+        },
+        {
+          "number": "2",
+          "title": "最速レベル上げ",
+          "description": "アップグレードの順番とクレート価値の優先順位で進行を加速し、Blue Lock Farmの収入を止めずに雪だるま式に増やします。"
+        },
+        {
+          "number": "3",
+          "title": "最高の稼ぎ方",
+          "description": "ロッカー、選手、クレートを安定したCashに変え、Blue Lock Farmを数百万規模へと育てる金銭習慣を身につけます。"
+        },
+        {
+          "number": "4",
+          "title": "全コードと報酬",
+          "description": "有効なBlue Lock Farmコードをすべて使い、特性トークン、グレードトークン、ポーション、ジャックポットトークンを期限前に受け取りましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題",
+      "quickLinks": [
+        "Blue Lock Farm コード",
+        "初心者ガイド",
+        "キャラクターTierリスト",
+        "稼ぎ方"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初のロッカーから自動で回るボール農場まで、必要なすべて。",
+          "href": "/guide/blue-lock-farm-beginner-guide"
+        },
+        {
+          "badge": "更新済み",
+          "title": "有効コード",
+          "description": "有効なBlue Lock Farmコードと報酬をまとめて紹介。期限前に受け取りましょう。",
+          "href": "/codes/blue-lock-farm-codes"
+        },
+        {
+          "badge": "人気",
+          "title": "キャラクターTierリスト",
+          "description": "グレード倍率、ハッチ排出率、農場効率で全キャラクターをランク付け。",
+          "href": "/characters/blue-lock-farm-rankings"
+        },
+        {
+          "badge": "人気",
+          "title": "ロッカー＆厳選ガイド",
+          "description": "ロッカーのハッチ、グレードの厳選、特性トークンが収入をどう左右するか。",
+          "href": "/mechanics/blue-lock-farm-rolls"
+        },
+        {
+          "badge": "更新済み",
+          "title": "稼ぎ方ガイド",
+          "description": "クレートをCash製造機に変えるアップグレードの順番。",
+          "href": "/progression/blue-lock-farm-money"
+        },
+        {
+          "badge": "人気",
+          "title": "最強ユニット",
+          "description": "レア度、グレード、特性、バリアントを比較して最高の編成を。",
+          "href": "/progression/blue-lock-farm-best-units"
+        },
+        {
+          "badge": "新着",
+          "title": "特性ガイド",
+          "description": "キーパーに最良のボーナスを付ける厳選と再厳選の方法。",
+          "href": "/mechanics/blue-lock-farm-traits"
+        },
+        {
+          "badge": "新着",
+          "title": "転生ガイド",
+          "description": "賢くリセットし、必要な資源を確保して素早く立て直す。",
+          "href": "/progression/blue-lock-farm-rebirth"
+        },
+        {
+          "badge": "更新済み",
+          "title": "アップデート追跡",
+          "description": "各パッチの新コード、トークン報酬、バランス調整。",
+          "href": "/guide/blue-lock-farm-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Blue Lock Farmとは？",
+      "paragraphs": [
+        "Blue Lock Farmは、開発元Finding IllusionsによるRobloxのタイクーン風アイドルゲームで、『ブルーロック』アニメのロッカールームの熱気をサッカーボールの金儲けマシンに変えた作品です。ロッカーを買い、アニメ風の選手をハッチし、その選手たちに拠点中でボールを稼がせ、満杯になったクレートをCashで売り、その収益をより良いロッカーやアップグレードにつぎ込みます。",
+        "ループは単純ですが、最適化は奥深いです。クレート価値、運、開封速度、移動速度、拠点サイズのアップグレードがすべて積み重なり、グレードトークン、特性トークン、バリアントトークン、ポーションが最強の選手を最高グレードURへと押し上げます。当Wikiでは、あらゆるシステムを手順付きガイド、アップグレードの優先順位、すぐに使えるコード一覧で解説します。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Finding Illusions"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Roblox"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サッカータイクーン"
+        },
+        {
+          "label": "有効コード",
+          "value": "5"
+        },
+        {
+          "label": "アップグレード項目",
+          "value": "5"
+        },
+        {
+          "label": "最高グレード",
+          "value": "UR"
+        },
+        {
+          "label": "主要資源",
+          "value": "Cash"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Blue Lock Farm Wikiを探索",
+      "description": "Robloxのサッカーボール農場を極めるための、育成ガイド、有効コード、キャラクターとロッカーの完全解説、Cashを最大化するアップグレード順を紹介します。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Blue Lock Farm コード",
+          "description": "有効なBlue Lock Farmコードをすべて使い、無料の特性トークン、グレードトークン、ポーション、ジャックポットトークンを獲得。受け取り手順もShopメニューで解説します。",
+          "href": "/codes/blue-lock-farm-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "TRAITS",
+              "detail": "最強選手の再厳選用に特性トークン25個"
+            },
+            {
+              "label": "ADMINABUSE",
+              "detail": "特性トークン20個、グレードトークン20個、バリアントトークン1個"
+            },
+            {
+              "label": "COMMUNITY",
+              "detail": "Cash・グレード速度・運のポーション各3個"
+            },
+            {
+              "label": "WEATHER",
+              "detail": "グレードトークン5個と運のポーション1個"
+            },
+            {
+              "label": "POLISHER",
+              "detail": "ボーナス報酬ガチャ用のジャックポットトークン1個"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Blue Lock Farm 初心者ガイド",
+          "description": "最初のロッカー購入と選手のハッチから、ボール稼ぎ、満杯クレートの売却、次のアップグレード資金づくりまで、Blue Lock Farmのループを順を追って解説します。",
+          "href": "/guide/blue-lock-farm-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "拠点の初期Cashで最初のロッカーを買う"
+            },
+            {
+              "label": "2",
+              "detail": "選手をハッチしてサッカーボールを稼がせる"
+            },
+            {
+              "label": "3",
+              "detail": "選手が集めたボールでクレートを満杯にする"
+            },
+            {
+              "label": "4",
+              "detail": "満杯クレートは溜め込まずCashに換える"
+            },
+            {
+              "label": "5",
+              "detail": "まずクレート価値、次に運と開封速度に再投資する"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Blue Lock Farm キャラクターTierリスト",
+          "description": "グレード倍率、ハッチ排出率、農場効率でBlue Lock Farmのキャラクターをランク付けし、グレードを上げて長く使う価値のある選手が分かります。",
+          "href": "/characters/blue-lock-farm-rankings",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ゲーム内最大のCash倍率を持つURグレード選手"
+            },
+            {
+              "label": "A",
+              "detail": "現行の農場編成の軸となる高グレードのハッチ"
+            },
+            {
+              "label": "B",
+              "detail": "より良いハッチが出るまで保持する価値のある中グレード選手"
+            },
+            {
+              "label": "C",
+              "detail": "序盤の穴埋めに使い、後に置き換える低グレードのコモン"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Blue Lock Farm ロッカーガイド",
+          "description": "Blue Lock Farmのロッカーの仕組み、ロッカー階級ごとのハッチ確率、運アップグレードとRanking台が生の排出を安定収入に変える方法を解説します。",
+          "href": "/mechanics/blue-lock-farm-rolls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ロッカー",
+              "detail": "ロッカーを買って拠点を稼ぐ選手をハッチする"
+            },
+            {
+              "label": "ハッチ",
+              "detail": "ロッカー階級が高いほど最高レアリティ排出率が上がる"
+            },
+            {
+              "label": "運",
+              "detail": "運アップグレードで厳選する全ハッチの品質が上がる"
+            },
+            {
+              "label": "グレード",
+              "detail": "プラザのRanking台でより高いグレードを厳選できる"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Blue Lock Farm 稼ぎ方ガイド",
+          "description": "アップグレードの順番、クレート価値の積み上げ、オフライン中も稼ぎ続ける習慣で、Blue Lock FarmをCashマシンに変えます。",
+          "href": "/progression/blue-lock-farm-money",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "ロッカーの空きを埋めて収入を止めない"
+            },
+            {
+              "label": "2",
+              "detail": "満杯クレートは完成した瞬間に売る"
+            },
+            {
+              "label": "3",
+              "detail": "どの売却も意味を持つまでクレート価値を上げる"
+            },
+            {
+              "label": "4",
+              "detail": "運に投資して編成の質を追いつかせる"
+            },
+            {
+              "label": "5",
+              "detail": "グレードトークンは残す選手のために取っておく"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Blue Lock Farm アップデートガイド",
+          "description": "新コード、トークン報酬の種類、どのアップグレードを優先すべきかを変えるバランス調整など、最新のBlue Lock Farmアップデートを追跡します。",
+          "href": "/guide/blue-lock-farm-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "コード",
+              "detail": "新コードはマイルストーンやイベントで登場"
+            },
+            {
+              "label": "トークン",
+              "detail": "特性・グレード・バリアント・ジャックポットトークンが報酬に追加"
+            },
+            {
+              "label": "調整",
+              "detail": "パッチごとにアップグレードとロッカーのバランスが変化"
+            },
+            {
+              "label": "イベント",
+              "detail": "期間限定マイルストーンで無料ブースターを配布"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Blue Lock Farm チーム編成ガイド",
+          "description": "レア度、グレード、特性、バリアントを比較してBlue Lock Farmの編成を強化し、残す予定の選手にだけグレードトークンを使いましょう。",
+          "href": "/progression/blue-lock-farm-best-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "レア度",
+              "detail": "レア度が高いハッチほど毎分のボール稼ぎが多い"
+            },
+            {
+              "label": "グレード",
+              "detail": "グレード階級が各選手の生み出すCashを倍増させる"
+            },
+            {
+              "label": "特性",
+              "detail": "特性の厳選でキーパーにボーナスステータスを積み上げる"
+            },
+            {
+              "label": "バリアント",
+              "detail": "バリアントはより高い倍率を持つ希少版ユニット"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Blue Lock Farm コミュニティガイド",
+          "description": "開発者のRobloxグループ、Discordのお知らせ、無料コードやトークンがもらえるゲーム内マイルストーンなど、Blue Lock Farmのコミュニティ拠点を紹介します。",
+          "href": "/guide/blue-lock-farm-tips",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Discord",
+              "detail": "新コードとアップデート情報が最速で届く場所"
+            },
+            {
+              "label": "グループ",
+              "detail": "開発者のRobloxグループがイベント告知を投稿"
+            },
+            {
+              "label": "マイルストーン",
+              "detail": "ゲーム内マイルストーンでトークンが継続的に手に入る"
+            },
+            {
+              "label": "トラッカー",
+              "detail": "コミュニティのコード追跡が更新間の報酬を一覧化"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Blue Lock Farmに関するよくある質問に手早く回答します。",
+      "items": [
+        {
+          "question": "Blue Lock Farmとは？",
+          "answer": "Blue Lock Farmは、開発元Finding IllusionsによるRobloxのタイクーン風アイドルゲームです。ロッカーを買い、アニメ風サッカー選手をハッチし、ボールをクレートに稼がせ、満杯クレートをCashで売って、より良いロッカーやアップグレードの資金にします。"
+        },
+        {
+          "question": "Blue Lock Farmで最速でCashを稼ぐ方法は？",
+          "answer": "満杯クレートを売り、まずクレート価値、次に運へ再投資しましょう。Blue Lock Farmはループを回し続けるプレイヤーを報いるので、ログオフ前にロッカーの空きをすべて埋め、高価なロッカーを買う前にクレート価値を上げましょう。"
+        },
+        {
+          "question": "Blue Lock Farmのコードはどう使う？",
+          "answer": "Blue Lock FarmのコードはShopメニューで入力する無料の一度限りの報酬です。TRAITS、ADMINABUSE、POLISHER、COMMUNITY、WEATHERなどの有効コードは、特性トークン、グレードトークン、ポーション、ジャックポットトークンを配布します。"
+        },
+        {
+          "question": "Blue Lock Farmで最高のグレードは？",
+          "answer": "URはBlue Lock Farmランキングの最上位に位置し、ゲーム内最大のCash倍率を持ちます。グレードはプラザのRanking台で厳選し、グレードトークンは残す予定の選手のために取っておきましょう。"
+        },
+        {
+          "question": "Blue Lock Farmで転生すべき？",
+          "answer": "転生はロッカー、選手、未使用のCashをリセットする代わりに永続ボーナスを得ます。Blue Lock Farmの転生を確定する前に、Cashを使い、満杯クレートを売り、グレードトークンを確保しましょう。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Blue Lock Farmを極める準備はできた？",
+      "description": "最初のロッカー開封から無敵のBlue Lockチーム作りまで、無料で最新のガイドを揃えたコミュニティWikiがサポートします。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Robloxでプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Blue Lock Farm ガイド",
+    "overviewDescription": "最初のロッカーから完全強化の稼ぎ農場まで、すべてのBlue Lock Farmガイドを一か所に。初心者向け手順から始めて、レベル上げ、育成、コツ、アップデート解説へ進みましょう。"
+  },
+  "characters": {
+    "overviewTitle": "Blue Lock Farm キャラクター",
+    "overviewDescription": "Blue Lock Farmのキャラクターがロッカーからどうハッチされ、グレードと特性が効率をどう変えるか、イサギ、リン、バチラなどどのストライカーを軸に育てるべきかを解説します。"
+  },
+  "codes": {
+    "overviewTitle": "Blue Lock Farm コード",
+    "overviewDescription": "最新の有効なBlue Lock Farmコードで、特性トークン、グレードトークン、ポーション、ジャックポットトークンを受け取りましょう。Shopメニューでの正確な手順と受け取り方法も解説します。"
+  },
+  "progression": {
+    "overviewTitle": "Blue Lock Farm 育成",
+    "overviewDescription": "稼ぎルート、転生リセット、最強ユニット、レート上げなど、Cashカウンターを伸ばし続ける長期的なBlue Lock Farm育成を計画しましょう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Blue Lock Farm ゲームシステム",
+    "overviewDescription": "ロッカーの厳選、特性、アビリティ、オーラなど、ループの背後にあるBlue Lock Farmのシステムと、各要素が農場効率をどう倍増させるかを理解しましょう。"
+  },
+  "controls": {
+    "overviewTitle": "Blue Lock Farm 操作",
+    "overviewDescription": "移動、サッカーアクション、拠点操作、新米マネージャー向けの全ゲームフローなど、RobloxでのBlue Lock Farmの操作方法に慣れましょう。"
+  },
+  "items": {
+    "overviewTitle": "Blue Lock Farm アイテム",
+    "overviewDescription": "Cashやジェムからスタイル、スピン、ラッキースピン、クラス、報酬まで、重要なBlue Lock Farmアイテムをすべて追跡し、それぞれが農場にどう役立つかを確認しましょう。"
+  },
+  "shared": {
+    "wikiNavigation": "Wikiナビゲーション",
+    "activeCodes": "有効コード",
+    "updated": "更新済み",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Robloxでプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Blue Lock Farm Wiki",
+    "about": "Blue Lock Farm Wikiは、コード、キャラクター、ロッカー、稼ぎルート、必須のゲーム知識を扱う独立系ファン制作のガイドハブで、新規プレイヤーにもベテランにも役立ちます。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Blue Lock Farm Wiki. ゲーム開発元およびRobloxとは無関係です。",
+    "description": "Robloxのアニメ系サッカー農場シミュレーター。キャラクターを集め、ロッカーを開け、素早くお金を稼ごう。",
+    "playGame": "RobloxでBlue Lock Farmをプレイ",
+    "officialDiscord": "公式Discord",
+    "officialYoutube": "公式YouTube",
+    "vvBuilder": "Blue Lock Farm Tierリスト",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "キャラクターガイド",
+    "bossGuides": "ロッカーガイド",
+    "buildGuide": "チーム編成ガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
